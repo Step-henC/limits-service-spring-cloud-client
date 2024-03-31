@@ -1,10 +1,10 @@
-## What is This?
+# What is This?
 Simple Spring boot microservice that returns json limits from a Spring Cloud Config Server properties. Yes, that makes this limits-service app and spring cloud client. Complimentary of in28Minutes
 Spring Boot Microservices Udemy Course
 
 
-# How to Run Locally 
-First, clone this other repo [](Spring Cloud Config Server) and follow instructions to get it running locally.
+## How to Run Locally 
+First, clone this other repo [https://github.com/Step-henC/spring-cloud-config-server-limits](Spring Cloud Config Server) and follow instructions to get it running locally.
 
 Did you follow the Spring Cloud Config Server instructions? Good. 
 
