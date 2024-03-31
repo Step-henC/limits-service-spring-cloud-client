@@ -4,7 +4,7 @@ Spring Boot Microservices Udemy Course
 
 
 ## How to Run Locally 
-First, clone this other repo [https://github.com/Step-henC/spring-cloud-config-server-limits](Spring Cloud Config Server) and follow instructions to get it running locally.
+First, clone this other repo (https://github.com/Step-henC/spring-cloud-config-server-limits)[Spring Cloud Config Server] and follow instructions to get it running locally.
 
 Did you follow the Spring Cloud Config Server instructions? Good. 
 
